@@ -1,2 +1,4 @@
+The United Nations' Sustainable Development Goals (SDGs) solution i am trying to solve is (4. quality education) and it targets on (android).the solution for this issue can be gained with android technology. in these days education system is totally upgraded to online due to covid 19 (the pandemic), students attend their classes in online on android and pcs. so we need to be updated and upgraded to our current scenario and adapt ourself to the nature.
 # eduz
 hi there, my dear fellow developers i am very much glad to be a part of this GOOGLE SOLUTION CHALLENGE event.
+my solution includes a advertisement free android browser ecspecially made for students below 18 and kids, it contains many safety features such as parental controls and real time monitoring by their parents and it contains some advanced blockers to block adult 18+ websites.these kids take their online classes without any disturbance.
